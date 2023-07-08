@@ -20,6 +20,5 @@ linkedList.add(24);
 linkedList.add(34);
 linkedList.add(56);
 linkedList.add(32);
-linkedList.add(23);
 linkedList.sort();
 console.log(linkedList.print());
