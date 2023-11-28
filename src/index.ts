@@ -1,6 +1,6 @@
-import { NumbersCollection } from "./NumbersCollections";
-import { CharactersCollection } from "./CharactersCollection";
-import { LinkedList } from "./LinkedList";
+import { NumbersCollection } from "./data-structures/NumbersCollections";
+import { CharactersCollection } from "./data-structures/CharactersCollection";
+import { LinkedList } from "./data-structures/LinkedList";
 
 // Sorting a string
 const charactersCollection = new CharactersCollection("Xaayb");

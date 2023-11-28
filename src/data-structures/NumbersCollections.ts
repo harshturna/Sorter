@@ -1,4 +1,4 @@
-import { Sorter } from "./Sorter";
+import { Sorter } from "../Sorter";
 
 export class NumbersCollection extends Sorter {
   data: number[];
