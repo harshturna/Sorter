@@ -3,4 +3,4 @@ The repo includes an abstract class <i>`Sorter`</i> that can be used to sort any
 The Sorter class separates the sorting logic from the data structure. <br/>
 Some example data structures (string, array and linked list) are also included in the `data-structures` directory to show how to use the Sorter class and implement the required methods and properties.<br/><br/>
 
-<b>NOTE</b> <i>The Sorter class uses the bubble sort algorithm to sort the data structures, which may not be efficient for practical use cases. However, the algorithm can be changed to a more efficient one based on the particular use case in the Sorter class. <i/>
+<b>NOTE</b> <i>The Sorter class uses the bubble sort algorithm to sort the data structures, which may not be efficient for practical use cases. You may implement your own sorting logic in the `Sorter` class based on your use case <i/>
